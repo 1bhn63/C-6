@@ -1,0 +1,4 @@
+C:\Users\insai\source\repos\6\6\obj\Debug\net8.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insai\source\repos\6\6\obj\Debug\net8.0\6.AssemblyInfoInputs.cache
+C:\Users\insai\source\repos\6\6\obj\Debug\net8.0\6.AssemblyInfo.cs
+C:\Users\insai\source\repos\6\6\obj\Debug\net8.0\6.csproj.CoreCompileInputs.cache
